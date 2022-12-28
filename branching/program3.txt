@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    float w,l,a;
+    cin>>w>>l;
+    a=w*l;
+    cout<<a;
+    return 0;
+}
+    
